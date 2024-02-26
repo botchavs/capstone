@@ -17,26 +17,16 @@ Consequently, it is in the lender's best interest to quickly process and communi
 The goal is to develop a 'Loan Performance Prediction' system that can instantly predict the outcome of loan requests using preliminary data. This system is aimed to assist consumer and small business loans as well as commercial loans, improving the decision-making process and potentially reducing non-performing loans. This application can be powered by a machine learning model trained on a large dataset of historical loan performance data. With this foundation, let's dive into the analysis and model building process.
 
 =============================================================
-
-Project Organization
+## Project Organization
 =============================================================
-
-├── README.md                           <- The main README document for developers utilizing this project.
-|
-├── lending_club_loan_two.csv (https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset/code?datasetId=608703&sortBy=voteCount)   
-|
-├── Presentation_final.pdf              <- Final presentation of the project 
-|
-├── notebooks
-|   ├── Capstone_Sprint 1.ipynb              <- Project notebook 1 - data preparation and exploration
-|   ├── Capstone_Sprint 2.ipynb              <- Project notebook 2 - baseline modeling
-|   ├── Capstone_working.ipynb               <- Project notebook 3 - final models for Loan performance prediction
-|   
-|   
-|
-├
+├── README.md                      <- Main README document for developers.
+├── lending_club_loan_two.csv      <- Dataset (source: [Kaggle](https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset/code?datasetId=608703&sortBy=voteCount))
+├── Presentation_final.pdf         <- Final project presentation.
+└── notebooks
+    ├── Capstone_Sprint 1.ipynb    <- Project notebook 1 - data preparation and exploration.
+    ├── Capstone_Sprint 2.ipynb    <- Project notebook 2 - baseline modeling.
+    └── Capstone_working.ipynb     <- Project notebook 3 - final models for Loan performance prediction.
 =============================================================
-
 
 ### Dataset Information
 The dataset of interest is [lending_club_loan_two.csv](https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset/code?datasetId=608703&sortBy=voteCount), with a manageable size for analysis.
