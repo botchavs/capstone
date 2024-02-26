@@ -19,6 +19,7 @@ The goal is to develop a 'Loan Performance Prediction' system that can instantly
 =============================================================
 ## Project Organization
 =============================================================
+
 ├── README.md                           <- Main README document for developers.
 |
 ├── lending_club_loan_two.csv           <- Dataset (source: [Kaggle](https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset/code?datasetId=608703&sortBy=voteCount)) 
@@ -29,8 +30,6 @@ The goal is to develop a 'Loan Performance Prediction' system that can instantly
 |   ├── Capstone_Sprint 1.ipynb         <- Project notebook 1 - data preparation and exploration.
 |   ├── Capstone_Sprint 2.ipynb         <- Project notebook 2 - baseline modeling.
 |   └── Capstone_working.ipynb          <- Project notebook 3 - final models for Loan performance prediction.
-
-
 
 
 ### Dataset Information
