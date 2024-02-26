@@ -22,7 +22,7 @@ The goal is to develop a 'Loan Performance Prediction' system that can instantly
 
     ├── README.md                           <- Main README document for developers.
     |
-    ├── lending_club_loan_two.csv           <- Dataset (source: [Kaggle](https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset/code?datasetId=608703&sortBy=voteCount)) 
+    ├── lending_club_loan_two.csv           <- Dataset (source: [Kaggle](https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset/code?datasetId=608703&sortBy=voteCount))
     |
     ├── Presentation_final.pdf              <- Final project presentation.
     |
