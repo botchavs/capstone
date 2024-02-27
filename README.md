@@ -32,10 +32,13 @@ The dataset `lending_club_loan_two.csv` contains information on loans issued thr
     |   ├── Capstone_Sprint 2.ipynb         <- Project notebook 2 - baseline modeling.
     |   └── Capstone_working.ipynb          <- Project notebook 3 - final models for Loan performance prediction.
     |
-    ├── Cleanedup, preprocessed and refined CSV data file used for Modeling.
+    ├── Cleanfile.csv                       <- Cleanedup, preprocessed and refined CSV data file used for Modeling.
+    |
+    ├── Demo App
+    |   ├── best_model.pkl                  <- Best model saved for using in the demo app
+    |   ├── Loan_predict_app.py             <- python code file for Streamlit app
     |
 
- 
 
 ### Modeling
 Several machine learning models were used to predict loan performance, including Logistic Regression, Decision Trees, XGBoost, CatBoost, and Neural Networks. Decision Trees achieved the highest accuracy (68.00%) and recall (71.40%) scores.
